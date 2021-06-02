@@ -21,7 +21,7 @@ Step-3:  Required softwares need to be installed before launching it i.e Basic G
 ![image](https://user-images.githubusercontent.com/64470724/120469011-77bd5a00-c3bf-11eb-9562-ab75a84097ee.png)
 
 # (Very Important Step-for Xserver Assignment)
-# Before getting into the Container Technology we need to assign few environment variables assigned to $HOME and Xauthority are assigned.
+#Before getting into the Container Technology we need to assign few environment variables assigned to $HOME and Xauthority are assigned.
 --->> docker run -it --name hacker --net=host --env="DISPLAY" --volume="$HOME .Xauthority:/root/.Xauthority:rw" centos:latest
 --->> jupyter notebook --allow-root
 
