@@ -3,7 +3,7 @@ GUI version of Docker to setup fast GUI on the CLI version of docker for the Mac
 
 #What is Docker ??
 Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels
-https://miro.medium.com/max/624/1*S770nQ0TFZnnc2SI3sEU4Q.gif
+![image](https://miro.medium.com/max/624/1*S770nQ0TFZnnc2SI3sEU4Q.gif)
 
 #How to access Docker ??
 It is a CLI version of Operating system to easy setup our production testing environment or even used for fast scaling purposes.
